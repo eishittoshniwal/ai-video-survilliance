@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    font-family: 'Akronim', cursive;
+ 
+}
+.heading{
+    font-size: 26px;
+    background-color: coral;
+    color:blanchedalmond ;
+}
+#start{
+font-size: 18px;
+}
+
+#status,#no_of_objects{
+    background-color: chocolate;
+    font-size: 18px;
+    margin-top: -10px;
+    color: darkgrey;
+    width: 400px;
+    padding: 10px;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+}
+
+#copyright_footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: blanchedalmond;
+background-color: black;
+text-align: center;
+line-height: 3;
+font-size: 14px;
+}
+
+canvas{
+    border: black;
+    border-radius: 10px;
+    box-shadow: darkorange 0px 0px 20px ;
+}
+
